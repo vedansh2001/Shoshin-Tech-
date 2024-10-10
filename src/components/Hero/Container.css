@@ -59,7 +59,7 @@
     .main-container {
         width: 100%;
         flex-direction: column;
-    }
+    } 
 
     .container1, .container2 {
         width: 100%;

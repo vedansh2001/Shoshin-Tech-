@@ -1,8 +1,44 @@
-# React + Vite
+# URL Shortener
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A react based responsive dashboard webpage (web and mobile).
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
+
+
+## Installation Instructions
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/vedansh2001/Shoshin-Tech-.git
+2. Navigate to the backend folder:
+
+   ```bash
+   cd Shoshin_Tech
+3. Install the dependencies:
+
+   ```bash
+   npm install
+4. Start the frontend server:
+
+   ```bash
+   npm run dev
+5. 
+## Usage
+Once the frontend server is running, open your browser and go to:
+
+   ```bash
+   http://localhost:5173
+   ```
+
+
+## Screenshots
+![App Screenshot](public/ShoshinTech.png)
+
+## Live Demo
+Live Deployed URL
+
+```bash
+https://shoshin-tch.vercel.app/
+```
